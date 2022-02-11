@@ -1,14 +1,46 @@
 ## Jian JIN (靳健)@Dept of Information Management, Beijing Normal University
 
-You can use the [editor on GitHub](https://github.com/xjtujay/xjtujay.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+09/2017.09-Now, Dept of Information Management, Beijing Normal University, Associate Professor
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+08/2013.09-08/2017, Dept of Information Management, Beijing Normal University, Assistant Professor
 
 ### EDUCATION EXPERIENCES
+09/2009.09-01/2013, The Hong Kong Polytechnic University, PhD
 
+Dept. of Industrial and System Engineering, Supervisor: Prof. Ping Ji, Ex-supervisor: Dr. Ying Liu
+
+09/2004-07/2007, Xian Jiaotong University, M.Phil
+
+Dept. of Computer Science, Supervisor: Guorong Liu, Co-supervisor: Xiaodong Liu
+
+09/2000-07/2004, Northeast Dianli University, B.S.
+
+Dept. of Information Engineering, Supervisor: Prof. Zhaoyang Qu
 
 ### WORK EXPERIENCES
+06/2014-08/2014, The Hong Kong Polytechnic University, Research Associate
 
+Dept. of Industrial and System Engineering, Supervisor: Prof. Ping Ji
+
+11/2012-08/2013, The Hong Kong Polytechnic University,	Research Assistant
+
+Dept. of Industrial and System Engineering, Supervisor: Prof. Ping Ji
+
+07/2007-07/2009, Institute of Software, Chinese Academy of Science, Software Development Engineer
+
+National Engineering Research Center of Fundamental Software, Leader: Dr. Xiaoyong Huai
+
+01/2009-03/2009, The University of Hong Kong, Research Assistant
+
+Dept. of Computer Science, Supervisor: Dr. Reynold Cheng
+
+02/2006-09/2006, IBM China Development Laboratory, Intern
+
+DB2 Group, Mentor: Bing Jiang Sun
+
+02/2004-06/2004, Sun Yat-sen University, Intern
+
+School of software, Supervisor: Dr. Zhaofu Fan
 
 ### PUBLICATIONS(* corresponding author)
 SCI/SSCI indexed Journal
@@ -100,32 +132,3 @@ Peer Refereed Conference Presentation
 8.	**Jian Jin** and Ping Ji, "Understanding the Customer Requirements in the Presence of Big Data", Annual Conference on Engineering and Information Technology (ACEAIT), Tokyo, Japan, March, 2014
 9.	**Jian Jin** and Ping Ji, “Relating Online Reviews to Product Characteristics”, 10th Conference on Information Science, Technology and Management (CISTM), Lisbon, Portugal, June, 2012
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xjtujay/xjtujay.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
