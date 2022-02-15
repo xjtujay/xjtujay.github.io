@@ -5,42 +5,24 @@
 08/2013.09-08/2017, Dept of Information Management, Beijing Normal University, Assistant Professor
 
 ### EDUCATION EXPERIENCES
-09/2009.09-01/2013, The Hong Kong Polytechnic University, PhD
+09/2009-01/2013, The Hong Kong Polytechnic University, Dept. of Industrial and System Engineering, PhD
 
-Dept. of Industrial and System Engineering, Supervisor: Prof. Ping Ji, Ex-supervisor: Dr. Ying Liu
+09/2004-07/2007, Xian Jiaotong University, Dept. of Computer Science, M.Phil
 
-09/2004-07/2007, Xian Jiaotong University, M.Phil
-
-Dept. of Computer Science, Supervisor: Guorong Liu, Co-supervisor: Xiaodong Liu
-
-09/2000-07/2004, Northeast Dianli University, B.S.
-
-Dept. of Information Engineering, Supervisor: Prof. Zhaoyang Qu
+09/2000-07/2004, Northeast Dianli University, Dept. of Information Engineering, B.S.
 
 ### WORK EXPERIENCES
-06/2014-08/2014, The Hong Kong Polytechnic University, Research Associate
+06/2014-08/2014, The Hong Kong Polytechnic University, Dept. of Industrial and System Engineering, Research Associate
 
-Dept. of Industrial and System Engineering, Supervisor: Prof. Ping Ji
+11/2012-08/2013, The Hong Kong Polytechnic University, Dept. of Industrial and System Engineering, Research Assistant
 
-11/2012-08/2013, The Hong Kong Polytechnic University,	Research Assistant
+07/2007-07/2009, Chinese Academy of Science, Institute of Software, National Engineering Research Center of Fundamental Software, Software Development Engineer
 
-Dept. of Industrial and System Engineering, Supervisor: Prof. Ping Ji
+01/2009-03/2009, The University of Hong Kong, Dept. of Computer Science, Research Assistant
 
-07/2007-07/2009, Institute of Software, Chinese Academy of Science, Software Development Engineer
+02/2006-09/2006, IBM China Development Laboratory, DB2 Group, Intern
 
-National Engineering Research Center of Fundamental Software, Leader: Dr. Xiaoyong Huai
-
-01/2009-03/2009, The University of Hong Kong, Research Assistant
-
-Dept. of Computer Science, Supervisor: Dr. Reynold Cheng
-
-02/2006-09/2006, IBM China Development Laboratory, Intern
-
-DB2 Group, Mentor: Bing Jiang Sun
-
-02/2004-06/2004, Sun Yat-sen University, Intern
-
-School of software, Supervisor: Dr. Zhaofu Fan
+02/2004-06/2004, Sun Yat-sen University, School of software, Intern
 
 ### PUBLICATIONS(* corresponding author)
 SCI/SSCI indexed Journal
@@ -131,4 +113,3 @@ Peer Refereed Conference Presentation
 7.	Ping Ji, Ning Li and **Jian Jin**, “Identifying Comparative Customer Requirements from Product Online Reviews for Competitor Analysis”, International Conference on Internet Studies (NETs), Tokyo, Japan, July 2015
 8.	**Jian Jin** and Ping Ji, "Understanding the Customer Requirements in the Presence of Big Data", Annual Conference on Engineering and Information Technology (ACEAIT), Tokyo, Japan, March, 2014
 9.	**Jian Jin** and Ping Ji, “Relating Online Reviews to Product Characteristics”, 10th Conference on Information Science, Technology and Management (CISTM), Lisbon, Portugal, June, 2012
-
