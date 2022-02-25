@@ -1,4 +1,5 @@
-## Jian JIN (靳健)@Dept of Information Management, Beijing Normal University
+# 靳健 北京师范大学 政府管理学院 信息管理系
+## Jian JIN @Dept of Information Management, Beijing Normal University
 
 09/2017.09-Now, Dept of Information Management, Beijing Normal University, Associate Professor
 
