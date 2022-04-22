@@ -6,16 +6,16 @@
 08/2013.09-08/2017, Dept of Information Management, Beijing Normal University, Assistant Professor
 
 ### EDUCATION EXPERIENCES
-09/2009-01/2013, The Hong Kong Polytechnic University, Dept. of Industrial and System Engineering, PhD
+09/2009-01/2013, The Hong Kong Polytechnic University, Dept. of Industrial and Systems Engineering, PhD
 
 09/2004-07/2007, Xian Jiaotong University, Dept. of Computer Science, M.Phil
 
 09/2000-07/2004, Northeast Dianli University, Dept. of Information Engineering, B.S.
 
 ### WORK EXPERIENCES
-06/2014-08/2014, The Hong Kong Polytechnic University, Dept. of Industrial and System Engineering, Research Associate
+06/2014-08/2014, The Hong Kong Polytechnic University, Dept. of Industrial and Systems Engineering, Research Associate
 
-11/2012-08/2013, The Hong Kong Polytechnic University, Dept. of Industrial and System Engineering, Research Assistant
+11/2012-08/2013, The Hong Kong Polytechnic University, Dept. of Industrial and Systems Engineering, Research Assistant
 
 07/2007-07/2009, Chinese Academy of Science, Institute of Software, National Engineering Research Center of Fundamental Software, Software Development Engineer
 
