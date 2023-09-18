@@ -25,6 +25,19 @@
 
 02/2004-06/2004, Sun Yat-sen University, School of software, Intern
 
+### FUNDING
+01/2024~12/2027, An investigation on policy semantic annotation and intelligent recommendation in the scenario of government-enterprise encouragement and government-citizen interaction, Principal investigator (Funded by National Natural Science Found of China)
+
+07/2021~12/2021, Knowledge Graph Construction for Industrial Policy Analysis, Principal investigator (Funded by ISTIC Rich-media laboratory)
+
+01/2018~12/2020, Mining product online reviews for the acquisition and comparison of customer requirements, Principal investigator (Funded by National Natural Science Found of China)
+
+01/2017~12/2017, An Integration of heterogeneous scholarly data for reviewer assignment, Principal investigator (Funded by ISTIC-EBSCO joint laboratory)
+
+09/2016~11/2019, Mining the dynamic trends of reviewer interest and potential conflicts for reviewer assignment, Principal investigator (Funded by Ministry of Education)
+
+11/2013~11/2015, A product design oriented investigation on Online Reviews Analysis, Principal investigator (The Fundamental Research Funds for the Central Universities)
+
 ### PUBLICATIONS(* corresponding author)
 SCI/SSCI indexed Journal
 1.	Qian Geng, Ziang Chuai and **Jian Jin***. “Webpage Retrieval Based on Query by Example for Think Tank Construction”. Information Processing and Management. 59(1), January 2022, 102767 [[doi](https://doi.org/10.1016/j.ipm.2021.102767)]  (SCI, SSCI, Q1)
