@@ -1,9 +1,11 @@
-# 靳健 北京师范大学 政府管理学院 信息管理系
+# 靳健，教授，北京师范大学 政府管理学院 信息管理系
 ## Jian JIN @Dept of Information Management, Beijing Normal University
 
-09/2017.09-Now, Dept of Information Management, Beijing Normal University, Associate Professor
+09/2023-Now, Dept of Information Management, Beijing Normal University, Professor
 
-08/2013.09-08/2017, Dept of Information Management, Beijing Normal University, Assistant Professor
+09/2017-08/2023, Dept of Information Management, Beijing Normal University, Associate Professor
+
+08/2013-08/2017, Dept of Information Management, Beijing Normal University, Assistant Professor
 
 ### EDUCATION EXPERIENCES
 09/2009-01/2013, The Hong Kong Polytechnic University, Dept. of Industrial and Systems Engineering, PhD
