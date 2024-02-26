@@ -30,6 +30,8 @@
 ### FUNDING
 01/2024~12/2027, An investigation on policy semantic annotation and intelligent recommendation in the scenario of government-enterprise encouragement and government-citizen interaction, Principal investigator (Funded by National Natural Science Found of China)
 
+08/2021~07/2022, Health Work Supervision and Inspection in Beijing, Beijing Municipal Health Commission
+
 07/2021~12/2021, Knowledge Graph Construction for Industrial Policy Analysis, Principal investigator (Funded by ISTIC Rich-media laboratory)
 
 01/2018~12/2020, Mining product online reviews for the acquisition and comparison of customer requirements, Principal investigator (Funded by National Natural Science Found of China)
