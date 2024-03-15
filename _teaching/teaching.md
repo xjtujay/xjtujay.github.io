@@ -7,8 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Applied Statistics with R
+* Applied Statistics with R
 
-Information Retrieval
+* Information Retrieval
 
-The Java Programming Language
+* Text Mining
+
+* The Java Programming Language
