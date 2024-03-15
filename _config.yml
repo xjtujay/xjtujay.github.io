@@ -202,6 +202,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  funding:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -268,6 +271,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _funding
   - scope:
       path: ""
       type: funding
