@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Funding"
+permalink: /funding/
+author_profile: true
+---
+
+{% include base_path %}
+
 ### FUNDING(PI)
 01/2024~12/2027, An investigation on policy semantic annotation and intelligent recommendation in the scenario of government-enterprise encouragement and government-citizen interaction (Funded by National Natural Science Found of China)
 
