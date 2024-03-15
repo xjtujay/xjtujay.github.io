@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 08. 2009~01.2013, PhD, The Hong Kong Polytechnic University, Dept. of Industrial and System Engineering
+* 08.2009~01.2013, PhD, The Hong Kong Polytechnic University, Dept. of Industrial and System Engineering
 * 09.2004~07.2007, M.Phil, Xian Jiaotong University, Dept. of Computer Science
 * 09.2000~07.2004, B.S., Northeast Dianli University, Dept. of Information Engineering
 
