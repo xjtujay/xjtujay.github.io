@@ -11,54 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 08. 2009~01.2013, PhD, The Hong Kong Polytechnic University, Dept. of Industrial and System Engineering
+* 09.2004~07.2007, M.Phil, Xian Jiaotong University, Dept. of Computer Science
+* 09.2000~07.2004, B.S., Northeast Dianli University, Dept. of Information Engineering
 
-Work experience
+Academic work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 09.2023~Now, Professor, Beijing Normal University, Dept. of Information Management
+* 09.2013~08.2023, Associate Prof., Lecturer, Beijing Normal University, Dept. of Information Management
+* 08.2013~08.2017, Lecturer, Beijing Normal University, Dept. of Information Management
+* 01.2013~08.2013, Research Associate, The Hong Kong Polytechnic University, Dept. of Industrial and System Engineering
+* 01.2009~03.2009, Research Assistant, The University of Hong Kong, Dept. of Computer Science
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Industrial work experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 07.2007~07.2009, Software Development Engineer, Chinese Academy of Science, Institute of Software
+* 02.2006~08.2006, Intern, IBM, China Development Lab, DB2/zOS
