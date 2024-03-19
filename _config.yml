@@ -205,6 +205,9 @@ collections:
   funding:
     output: true
     permalink: /:collection/:path/
+  students:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -275,6 +278,14 @@ defaults:
   - scope:
       path: ""
       type: funding
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _students
+  - scope:
+      path: ""
+      type: _students
     values:
       layout: single
       author_profile: true
