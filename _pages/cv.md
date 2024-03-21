@@ -21,7 +21,7 @@ Academic experience
 * 09.2013~08.2023, Associate Prof., Lecturer, Beijing Normal University, Dept. of Information Management
 * 08.2013~08.2017, Lecturer, Beijing Normal University, Dept. of Information Management
 * 01.2013~08.2013, Research Associate, The Hong Kong Polytechnic University, Dept. of Industrial and System Engineering
-* 01.2009~03.2009, Research Assistant, The University of Hong Kong, Dept. of Computer Science
+* 01.2009~03.2009, Research Assistant, [The University of Hong Kong](https://www.cs.hku.hk/), Dept. of Computer Science
 
 Industry experience
 ======
