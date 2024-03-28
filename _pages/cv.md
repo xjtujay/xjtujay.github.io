@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 08.2009~01.2013, Ph.D., [The Hong Kong Polytechnic University](http://www.polyu.edu.hk/ise/), Dept. of Industrial and System Engineering
+* 08.2009~01.2013, Ph.D., [The Hong Kong Polytechnic University](http://www.polyu.edu.hk/ise/), Dept. of Industrial and Systems Engineering
 * 09.2004~07.2007, M.Phil, [Xian Jiaotong University](http://www.cs.xjtu.edu.cn/), Dept. of Computer Science
 * 09.2000~07.2004, B.S., [Northeast Dianli University](https://cs.neepu.edu.cn/), Dept. of Information Engineering
 
