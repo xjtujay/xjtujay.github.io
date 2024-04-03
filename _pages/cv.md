@@ -25,6 +25,6 @@ Academic experience
 
 Industry experience
 ======
-* 07.2007~07.2009, Software Development Engineer, Chinese Academy of Science, Institute of Software, Beijing
-* 02.2006~08.2006, Intern, IBM, China Development Lab, DB2/zOS, Beijing
-* 02.2004~06.2004, Intern, Sun Yat-sen University, School of Software Engineering
+* 07.2007~07.2009, Software Development Engineer, [Chinese Academy of Science](http://www.iscas.ac.cn/), Institute of Software, Beijing
+* 02.2006~08.2006, Intern, [IBM](https://www.ibm.com/cn-zh), China Development Lab, DB2/zOS, Beijing
+* 02.2004~06.2004, Exchange Student, [Sun Yat-sen University](https://sse.sysu.edu.cn/), School of Software Engineering
