@@ -6,6 +6,7 @@ author_profile: true
 ---
 ### PUBLICATIONS(* corresponding author)
 SCI/SSCI indexed Journal
+30. Qian Geng, Ziang Chuai and **Jian Jin***. "Cross-organizational data exchange based on consortium blockchain with consistency guarantee", Journal of Supercomputing, 2024. [[doi](https://doi.org/10.1007/s11227-024-06164-z)] (SCI, Q2)
 29. Kejia Chen, Jingjing Zheng and **Jian Jin***. "Ranking products through online opinions: A text analysis and regret theory-based approach". Applied Soft Computing, Volume 158, June 2024, 111571. [[doi](https://doi.org/10.1016/j.asoc.2024.111571)] (SCI, Q1)
 28.	Qian Geng, Ziang Chuai and **Jian Jin***. "Webpage Retrieval Based on Query by Example for Think Tank Construction". Information Processing and Management. 59(1), January 2022, 102767 [[doi](https://doi.org/10.1016/j.ipm.2021.102767)]  (SCI, SSCI, Q1)
 27.	**Jian Jin**, Danping Jia and Kejia Chen. "Mining online reviews with a Kansei-integrated Kano model for innovative product design". International Journal of Production Research, 44216, 2021, Taylor & Francis [[doi](https://doi.org/10.1080/00207543.2021.1949641)] (SCI, Q1)
