@@ -94,7 +94,7 @@ Peer Refereed Conference Paper
 
 Peer Refereed Conference Presentation
 13.	Ziang Chuai, Qian Geng and **Jian Jin**. "Healthcare Data Sharing and Ancillary Services Integration: A Blockchain-based Solution". 2022 Annual Meeting of ASIS&T Asia Pacific Chapter (ASIS&T AP). December 17-18, 2022, Virtual.
-12.	揣子昂,耿骞,**靳健**.基于联盟链的跨部门政府数据异步更新机制, 第八届全国大数据与社会计算学术会议(BDSC 2023),乌鲁木齐,2023年7月
+12.	揣子昂，耿骞，**靳健**。基于联盟链的跨部门政府数据异步更新机制, 第八届全国大数据与社会计算学术会议(BDSC 2023)，乌鲁木齐，2023年7月
 11.	秦淑英，潘佳立，王博，**靳健**，耿骞。面向新产品设计的用户情绪原因发现研究，2022年中国情报学年会暨情报学与情报工作发展论坛，北京，2022年8月
 10.	潘佳立，秦淑英，王博，**靳健**，耿骞。基于多任务学习的产品创新型特征识别与用户满意度建模，2022年中国情报学年会暨情报学与情报工作发展论坛，北京，2022年8月
 9.	Danping Jia, Siyu Deng, **Jian Jin** and Qian Geng. "Integrating Kansei Engineering with Sentiment Analysis for Customer Understanding from Online Opinions". POMS International Conference in China (POMS China 2019), Tianjin, Jun 21-24, 2019
