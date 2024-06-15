@@ -6,6 +6,7 @@ author_profile: true
 ---
 ### PUBLICATIONS(* corresponding author)
 SCI/SSCI indexed Journal
+31.	Qian Geng, Ziang Chuai and **Jian Jin***. "An Integrated Healthcare Service System Based on Blockchain Technologies", IEEE Transactions on Computational Social Systems, 2024, [[doi](http://doi.org/10.1109/TCSS.2024.3392591)] (SCI, Q1)
 30. Qian Geng, Ziang Chuai and **Jian Jin***. "Cross-organizational data exchange based on consortium blockchain with consistency guarantee", Journal of Supercomputing, 2024. [[doi](https://doi.org/10.1007/s11227-024-06164-z)] (SCI, Q2)
 29. Kejia Chen, Jingjing Zheng and **Jian Jin***. "Ranking products through online opinions: A text analysis and regret theory-based approach". Applied Soft Computing, Volume 158, June 2024, 111571. [[doi](https://doi.org/10.1016/j.asoc.2024.111571)] (SCI, Q1)
 28.	Qian Geng, Ziang Chuai and **Jian Jin***. "Webpage Retrieval Based on Query by Example for Think Tank Construction". Information Processing and Management. 59(1), January 2022, 102767 [[doi](https://doi.org/10.1016/j.ipm.2021.102767)]  (SCI, SSCI, Q1)
@@ -71,6 +72,8 @@ Chinese Journal Paper
 1.	**靳健**，刘国荣，张博渊. 基于JavaScript的虚拟作物知识引擎的构建. 微电子学与计算机, 2007(03):66-68，2007年03月05日
 
 Peer Refereed Conference Paper
+19.	Ziang Chuai, Qian Geng and **Jian Jin***. "Ensuring Consistency in Interagency Government Data Exchange: A Blockchain-Based Solution", 87th Annual Meeting of the Association for Information Science and Technology (ASIS&T 2024) 25-29 October, 2024
+18.	Chaoyang Li, **Jian Jin***, Xiangling Fu and Ning Li. "A Topic Enhance Match Net for Financial Complaint Cases Retrieval". Proceedings of the 13th International Conference on Software and Computer Applications (ICSCA 2024), 231-236, Bali Island, Indonesia, February 1 - 3, 2024 [[doi](https://doi.org/10.1145/3651781.3651817)]
 17.	Danping Jia and **Jian Jin***. "Mining Affective Needs from Online Opinions for Design Innovation". APWeb-WAIM, The 4th APWeb-WAIM International Joint Conference on Web and Big Data. August 12-14, 2020, Tianjin, China. [[doi](https://doi.org/10.1007/978-3-030-60290-1_25)] 
 16.	Qian Geng, Siyu Deng, Danping Jia and **Jian Jin***. "Cross-domain Ontology Construction and Alignment from Online Product Reviews". WWW, 8th International Workshop on Natural Language Processing for Social Media, 786–793, April 20–24, 2020, Taipei, Taiwan. [[doi](https://doi.org/10.1145/3366424.3383755)] 
 15.	Ziang Chuai, Qian Geng and **Jian Jin*** "Domain-Specific Automatic Scholar Profiling Based on Wikipedia". WWW, 7th Wiki Workshop, 786–793, April 20–24, 2020, Taipei, Taiwan. [[doi](https://doi.org/10.1145/3366424.3383565)] 
