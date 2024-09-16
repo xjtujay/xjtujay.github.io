@@ -6,6 +6,7 @@ author_profile: true
 ---
 ### PUBLICATIONS(* corresponding author)
 SCI/SSCI indexed Journal
+32. **Jian Jin**, Mingyue Yang, Huicong Hu, Xin Guo, Jianxi Luo and Ying Liu. "Empowering Design Innovation Using AI-Generated Content", Journal of Engineering Design, [[doi]http://doi.org/10.1080/09544828.2024.2401751] (SCI, Q1)
 31.	Qian Geng, Ziang Chuai and **Jian Jin***. "An Integrated Healthcare Service System Based on Blockchain Technologies", IEEE Transactions on Computational Social Systems, 2024, [[doi](http://doi.org/10.1109/TCSS.2024.3392591)] (SCI, Q1)
 30. Qian Geng, Ziang Chuai and **Jian Jin***. "Cross-organizational data exchange based on consortium blockchain with consistency guarantee", Journal of Supercomputing, 2024. [[doi](https://doi.org/10.1007/s11227-024-06164-z)] (SCI, Q2)
 29. Kejia Chen, Jingjing Zheng and **Jian Jin***. "Ranking products through online opinions: A text analysis and regret theory-based approach". Applied Soft Computing, Volume 158, June 2024, 111571. [[doi](https://doi.org/10.1016/j.asoc.2024.111571)] (SCI, Q1)
@@ -15,7 +16,7 @@ SCI/SSCI indexed Journal
 25.	Qian Geng, Ziang Chuai and **Jian Jin***. "Automatic construction of academic profile: A case of information science domain". Journal of Information Science, 165551521998048, 2021, SAGE Publications Sage UK: London, England [[doi](https://doi.org/10.1177/0165551521998048)] (SSCI, Q2)
 24.	Yonghe Su, Fei Tao, **Jian Jin** and Changzhi Zhang. "Automated Overheated Region Object Detection of Photovoltaic Module with Thermography Image". IEEE Journal of Photovoltaics, (11),2:535-544, 2021, IEEE, [[doi](https://doi.org/10.1109/JPHOTOV.2020.3045680)] (SCI, Q2)
 23.	Kejia Chen, **Jian Jin***, Zheng Zhao and Ping Ji. "Understanding customer regional differences from online opinions: a hierarchical Bayesian approach". Electronic Commerce Research, [[doi](https://doi.org/10.1007/s10660-020-09420-5)] (SSCI, Q2)
-22.	**Jian Jin**, Haiyuan Zhao and Ping Ji. Topic attention encoder: A self-supervised approach for short text clustering. Journal of Information Science, 165551520977453, 2020, SAGE Publications Sage UK: London, England [[doi](https://doi.org/10.1177/0165551520977453)] (SSCI, Q2)
+22.	**Jian Jin**, Haiyuan Zhao and Ping Ji. "Topic attention encoder: A self-supervised approach for short text clustering". Journal of Information Science, 165551520977453, 2020, SAGE Publications Sage UK: London, England [[doi](https://doi.org/10.1177/0165551520977453)] (SSCI, Q2)
 21.	Qian Geng, Siyu Deng, Danping Jia and **Jian Jin***. "Cross-domain Ontology Construction and Alignment from Online Customer Product Reviews". Information Science, Volume 531, August 2020, Pages 47-67, [[doi](https://doi.org/10.1016/j.ins.2020.03.058)]  (SCI, Q1)
 20.	Ying Liu, Anthony Soroka, Liangxiu Han, **Jian Jin** and Min Tang. "Cloud-based big data analytics for customer insight-driven design innovation in SMEs" International Journal of Information Management, Volume 51, April 2020, 102034, [[doi](https://doi.org/10.1016/j.ijinfomgt.2019.11.002)] （SCI，SSCI，Q1）
 19.	Yonghe Su, Fei Tao, **Jian Jin**, Tian Wang, Qingguo Wang and Lei Wang. "Failure Prognosis of Complex Equipment with Multi-stream Deep Recurrent Neural Network". Journal of Computing and Information Science in Engineering, 20(2): 021007, April 2020 [[doi](https://doi.org/10.1115/1.4045445)] （SCI，Q3）
