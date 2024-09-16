@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### PUBLICATIONS(* corresponding author)
 SCI/SSCI indexed Journal
-32. **Jian Jin**, Mingyue Yang, Huicong Hu, Xin Guo, Jianxi Luo and Ying Liu. "Empowering Design Innovation Using AI-Generated Content", Journal of Engineering Design, [[doi]http://doi.org/10.1080/09544828.2024.2401751] (SCI, Q1)
+32. **Jian Jin**, Mingyue Yang, Huicong Hu, Xin Guo, Jianxi Luo and Ying Liu. "Empowering Design Innovation Using AI-Generated Content", Journal of Engineering Design, [[doi](http://doi.org/10.1080/09544828.2024.2401751)] (SCI, Q1)
 31.	Qian Geng, Ziang Chuai and **Jian Jin***. "An Integrated Healthcare Service System Based on Blockchain Technologies", IEEE Transactions on Computational Social Systems, 2024, [[doi](http://doi.org/10.1109/TCSS.2024.3392591)] (SCI, Q1)
 30. Qian Geng, Ziang Chuai and **Jian Jin***. "Cross-organizational data exchange based on consortium blockchain with consistency guarantee", Journal of Supercomputing, 2024. [[doi](https://doi.org/10.1007/s11227-024-06164-z)] (SCI, Q2)
 29. Kejia Chen, Jingjing Zheng and **Jian Jin***. "Ranking products through online opinions: A text analysis and regret theory-based approach". Applied Soft Computing, Volume 158, June 2024, 111571. [[doi](https://doi.org/10.1016/j.asoc.2024.111571)] (SCI, Q1)
