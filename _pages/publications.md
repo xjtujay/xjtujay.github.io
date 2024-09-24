@@ -94,6 +94,8 @@ Peer Refereed Conference Paper
 1.	Jianpeng Zhu, **Jian Jin** and Ying Wang, "A Probabilistic Filter Protocol for Continuous Nearest-neighbor Query", IEEE Youth Conf. on Information, Computing and Telecommunications (YC-ITC), Pages 399-402, Beijing, China, September, 2009, IEEE [[doi](https://doi.org/10.1109/YCICT.2009.5382333)] 
 
 Peer Refereed Conference Presentation
+15.	段永康，**靳健**。基于检索增强生成技术的惠企政策比较研究，2024年中国情报学年会暨情报学与情报工作发展论坛，天津，2024年10月
+14.	段永康，**靳健**，吕鹏辉。基于Python语言的文献智能计量：以区块链为例，首届全国信息管理年会暨博士生学术论坛，杭州，2024年4月
 13.	揣子昂，耿骞，**靳健**。基于联盟链的跨部门政府数据异步更新机制, 第八届全国大数据与社会计算学术会议(BDSC 2023)，乌鲁木齐，2023年7月
 12.	Ziang Chuai, Qian Geng and **Jian Jin**. "Healthcare Data Sharing and Ancillary Services Integration: A Blockchain-based Solution". 2022 Annual Meeting of ASIS&T Asia Pacific Chapter (ASIS&T AP). December 17-18, 2022, Virtual.
 11.	秦淑英，潘佳立，王博，**靳健**，耿骞。面向新产品设计的用户情绪原因发现研究，2022年中国情报学年会暨情报学与情报工作发展论坛，北京，2022年8月
