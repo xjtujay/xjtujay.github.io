@@ -7,8 +7,8 @@ author_profile: true
 ### PUBLICATIONS(* corresponding author)
 SCI/SSCI indexed Journal
 32. **Jian Jin**, Mingyue Yang, Huicong Hu, Xin Guo, Jianxi Luo and Ying Liu. "Empowering Design Innovation Using AI-Generated Content", Journal of Engineering Design, [[doi](http://doi.org/10.1080/09544828.2024.2401751)] (SCI, Q1)
-31.	Qian Geng, Ziang Chuai and **Jian Jin***. "An Integrated Healthcare Service System Based on Blockchain Technologies", IEEE Transactions on Computational Social Systems, 2024, [[doi](http://doi.org/10.1109/TCSS.2024.3392591)] (SCI, Q1)
-30. Qian Geng, Ziang Chuai and **Jian Jin***. "Cross-organizational data exchange based on consortium blockchain with consistency guarantee", Journal of Supercomputing, 2024. [[doi](https://doi.org/10.1007/s11227-024-06164-z)] (SCI, Q2)
+31.	Qian Geng, Ziang Chuai and **Jian Jin***. "An Integrated Healthcare Service System Based on Blockchain Technologies", IEEE Transactions on Computational Social Systems, 11(5), 6278 – 6295, October 2024, [[doi](http://doi.org/10.1109/TCSS.2024.3392591)] (SCI, Q1)
+30. Qian Geng, Ziang Chuai and **Jian Jin***. "Cross-organizational data exchange based on consortium blockchain with consistency guarantee", Journal of Supercomputing, Volume 80, pages 18199–18236, May 2024. [[doi](https://doi.org/10.1007/s11227-024-06164-z)] (SCI, Q2)
 29. Kejia Chen, Jingjing Zheng and **Jian Jin***. "Ranking products through online opinions: A text analysis and regret theory-based approach". Applied Soft Computing, Volume 158, June 2024, 111571. [[doi](https://doi.org/10.1016/j.asoc.2024.111571)] (SCI, Q1)
 28.	Qian Geng, Ziang Chuai and **Jian Jin***. "Webpage Retrieval Based on Query by Example for Think Tank Construction". Information Processing and Management. 59(1), January 2022, 102767 [[doi](https://doi.org/10.1016/j.ipm.2021.102767)]  (SCI, SSCI, Q1)
 27.	**Jian Jin**, Danping Jia and Kejia Chen. "Mining online reviews with a Kansei-integrated Kano model for innovative product design". International Journal of Production Research, 44216, 2021, Taylor & Francis [[doi](https://doi.org/10.1080/00207543.2021.1949641)] (SCI, Q1)
@@ -94,6 +94,7 @@ Peer Refereed Conference Paper
 1.	Jianpeng Zhu, **Jian Jin** and Ying Wang, "A Probabilistic Filter Protocol for Continuous Nearest-neighbor Query", IEEE Youth Conf. on Information, Computing and Telecommunications (YC-ITC), Pages 399-402, Beijing, China, September, 2009, IEEE [[doi](https://doi.org/10.1109/YCICT.2009.5382333)] 
 
 Peer Refereed Conference Presentation
+16.	张珺彭，耿骞，**靳健**。基于组合深度学习模型的政民互动问题分类研究，2024年中国情报学年会暨情报学与情报工作发展论坛，天津，2024年10月
 15.	段永康，**靳健**。基于检索增强生成技术的惠企政策比较研究，2024年中国情报学年会暨情报学与情报工作发展论坛，天津，2024年10月
 14.	段永康，**靳健**，吕鹏辉。基于Python语言的文献智能计量：以区块链为例，首届全国信息管理年会暨博士生学术论坛，杭州，2024年4月
 13.	揣子昂，耿骞，**靳健**。基于联盟链的跨部门政府数据异步更新机制, 第八届全国大数据与社会计算学术会议(BDSC 2023)，乌鲁木齐，2023年7月
