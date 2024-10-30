@@ -52,7 +52,7 @@ Book
 1.	政府数据资产运营白皮书. 北京师范大学，2019年
 
 Chinese Journal Paper
-19.	耿骞,揣子昂,**靳健***. 基于联盟链的跨组织数据交换操作一致性模型，计算机科学,2024(Z6)
+19.	耿骞,揣子昂,**靳健***. 基于联盟链的跨组织数据交换操作一致性模型，计算机科学,2024,51(S1):1005-1013
 18.	苏梦泽,耿骞,刘志刚,**靳健***. 基于属性分析及文本聚类的我国养老政策演化研究. 人口与发展,2023,29(05):133-144
 17.	揣子昂,耿骞,潘慧瑶,**靳健***.产业政策知识图谱的自动化构建.情报工程,2022,8(3):028-051
 16.	黄崑, 郑明煊, 罗士超, **靳健**. 探索式搜索中基于面部表情识别的用户情绪及影响因素研究.图书情报工作,2022, 66(5): 93-104
@@ -73,7 +73,7 @@ Chinese Journal Paper
 1.	**靳健**，刘国荣，张博渊. 基于JavaScript的虚拟作物知识引擎的构建. 微电子学与计算机, 2007(03):66-68，2007年03月05日
 
 Peer Refereed Conference Paper
-19.	Ziang Chuai, Qian Geng and **Jian Jin***. "Ensuring Consistency in Interagency Government Data Exchange: A Blockchain-Based Solution", 87th Annual Meeting of the Association for Information Science and Technology (ASIS&T 2024) 25-29 October, 2024
+19.	Ziang Chuai, Qian Geng and **Jian Jin***. "Ensuring Consistency in Interagency Government Data Exchange: A Blockchain-Based Solution", 87th Annual Meeting of the Association for Information Science and Technology (ASIS&T 2024) 25-29 October, 2024 [[doi](https://doi.org/10.1002/pra2.1013)]
 18.	Chaoyang Li, **Jian Jin***, Xiangling Fu and Ning Li. "A Topic Enhance Match Net for Financial Complaint Cases Retrieval". Proceedings of the 13th International Conference on Software and Computer Applications (ICSCA 2024), 231-236, Bali Island, Indonesia, February 1 - 3, 2024 [[doi](https://doi.org/10.1145/3651781.3651817)]
 17.	Danping Jia and **Jian Jin***. "Mining Affective Needs from Online Opinions for Design Innovation". APWeb-WAIM, The 4th APWeb-WAIM International Joint Conference on Web and Big Data. August 12-14, 2020, Tianjin, China. [[doi](https://doi.org/10.1007/978-3-030-60290-1_25)] 
 16.	Qian Geng, Siyu Deng, Danping Jia and **Jian Jin***. "Cross-domain Ontology Construction and Alignment from Online Product Reviews". WWW, 8th International Workshop on Natural Language Processing for Social Media, 786–793, April 20–24, 2020, Taipei, Taiwan. [[doi](https://doi.org/10.1145/3366424.3383755)] 
