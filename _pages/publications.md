@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### PUBLICATIONS(* corresponding author)
 SCI/SSCI indexed Journal
-33. Junpeng Zhang, Qian Geng and **Jian Jin***. "EKLI-Attention: An integrated attention mechanism for classifying citizen requests in government‒citizen interactions", Information Processing and Management, 2025 (SCI, Q1)
+33. Junpeng Zhang, Qian Geng and **Jian Jin***. "EKLI-Attention: An integrated attention mechanism for classifying citizen requests in government‒citizen interactions", Information Processing and Management, 62(6), November 2025, 104237 https://doi.org/10.1016/j.ipm.2025.104237 (SCI, Q1) 
 32. **Jian Jin**, Mingyue Yang, Huicong Hu, Xin Guo, Jianxi Luo and Ying Liu. "Empowering Design Innovation Using AI-Generated Content", Journal of Engineering Design, Volume 36, Issue 1, 1-18, 2025, [[doi](http://doi.org/10.1080/09544828.2024.2401751)] (SCI, Q1)
 31.	Qian Geng, Ziang Chuai and **Jian Jin***. "An Integrated Healthcare Service System Based on Blockchain Technologies", IEEE Transactions on Computational Social Systems, 11(5), 6278 – 6295, October 2024, [[doi](http://doi.org/10.1109/TCSS.2024.3392591)] (SCI, Q1)
 30. Qian Geng, Ziang Chuai and **Jian Jin***. "Cross-organizational data exchange based on consortium blockchain with consistency guarantee", Journal of Supercomputing, Volume 80, pages 18199–18236, May 2024. [[doi](https://doi.org/10.1007/s11227-024-06164-z)] (SCI, Q2)
@@ -53,6 +53,7 @@ Book
 1.	政府数据资产运营白皮书. 北京师范大学，2019年
 
 Chinese Journal Paper
+22.	赵广宇,段永康,耿骞,闫妍,**靳健***. 基于LLM数据增强和对比学习的政务相似问题检索研究，数据分析与知识发现，2025
 21. **靳健**,吴倩,秦淑英.产品评论中的"情绪-原因-特征"用户需求网络构建与分析,图书情报工作, 2025
 20. 段永康,赵广宇,耿骞,曹涵维,**靳健***.基于大语言模型的政策知识库构建与政策比较研究——以惠企政策为例,数据分析与知识发现, 2025
 19.	耿骞,揣子昂,**靳健***. 基于联盟链的跨组织数据交换操作一致性模型，计算机科学,2024,51(S1):1005-1013
