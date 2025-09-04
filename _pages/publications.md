@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### PUBLICATIONS(* corresponding author)
 SCI/SSCI indexed Journal
-33. Junpeng Zhang, Qian Geng and **Jian Jin***. "EKLI-Attention: An integrated attention mechanism for classifying citizen requests in government‒citizen interactions", Information Processing and Management, 62(6), November 2025, 104237 https://doi.org/10.1016/j.ipm.2025.104237 (SCI, Q1) 
+33. Junpeng Zhang, Qian Geng and **Jian Jin***. "EKLI-Attention: An integrated attention mechanism for classifying citizen requests in government‒citizen interactions", Information Processing and Management, 62(6), November 2025, 104237 [[doi](https://doi.org/10.1016/j.ipm.2025.104237)] (SCI, Q1) 
 32. **Jian Jin**, Mingyue Yang, Huicong Hu, Xin Guo, Jianxi Luo and Ying Liu. "Empowering Design Innovation Using AI-Generated Content", Journal of Engineering Design, Volume 36, Issue 1, 1-18, 2025, [[doi](http://doi.org/10.1080/09544828.2024.2401751)] (SCI, Q1)
 31.	Qian Geng, Ziang Chuai and **Jian Jin***. "An Integrated Healthcare Service System Based on Blockchain Technologies", IEEE Transactions on Computational Social Systems, 11(5), 6278 – 6295, October 2024, [[doi](http://doi.org/10.1109/TCSS.2024.3392591)] (SCI, Q1)
 30. Qian Geng, Ziang Chuai and **Jian Jin***. "Cross-organizational data exchange based on consortium blockchain with consistency guarantee", Journal of Supercomputing, Volume 80, pages 18199–18236, May 2024. [[doi](https://doi.org/10.1007/s11227-024-06164-z)] (SCI, Q2)
