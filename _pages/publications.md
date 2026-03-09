@@ -6,6 +6,7 @@ author_profile: true
 ---
 ### PUBLICATIONS(* corresponding author)
 SCI/SSCI indexed Journal
+36.	Yongkang Duan, Guangyu Zhao, Qian Geng, Ping Ji and **Jian Jin***. "From Reactive to Proactive Policy Implement Method Through Intelligent Enterprise Matching". Enterprise Information Systems, 20(3), 2026 [[doi](https://doi.org/10.1080/17517575.2026.2628701)] (SCI, Q1)
 35.	**Jian Jin**, Xu Zhang, Kejia Chen, and Siyi Huang. "Chinese Entity Relation Extraction for Enhancing Public Event Analysis in Weibo". International Journal of Software Engineering and Knowledge Engineering [[doi](https://doi.org/10.1142/S0218194025500627)] (SCI, Q4)
 34.	Hongyang Wang, **Jian Jin***, Li Li, Jiaqi Liu and Da Wang. "Driving Online Healthcare Growth Amid the Digital Divide: How Trust in Professional Signals from Doctor Biographies Shapes Patient Decisions", Healthcare, 2025, 13(12), 1418. [[doi](https://doi.org/10.3390/healthcare13121418)] (SCI, Q2)
 33. Junpeng Zhang, Qian Geng and **Jian Jin***. "EKLI-Attention: An integrated attention mechanism for classifying citizen requests in government‒citizen interactions", Information Processing and Management, 62(6), November 2025, 104237 [[doi](https://doi.org/10.1016/j.ipm.2025.104237)] (SCI, Q1) 
@@ -55,6 +56,7 @@ Book
 1.	政府数据资产运营白皮书. 北京师范大学，2019年
 
 Chinese Journal Paper
+23.	段永康,赵广宇,耿骞,**靳健***.基于CAMC-Net的企业合作伙伴推荐方法研究，情报学报,2026,45(1):36-50.
 22.	赵广宇,段永康,耿骞,闫妍,**靳健***. 基于LLM数据增强和对比学习的政务相似问题检索研究，数据分析与知识发现，2025
 21. 段永康,赵广宇,耿骞,曹涵维,**靳健***.基于大语言模型的政策知识库构建与政策比较研究——以惠企政策为例,，数据分析与知识发现，2025,9(10):68-84
 20. **靳健**,吴倩,秦淑英.产品评论中的"情绪-原因-特征"用户需求网络构建与分析,图书情报工作, 2025, 69(17):130-142
