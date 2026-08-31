@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ### FUNDING(PI)
+* 07/2025~06/2027, Dynamic high-quality dataset construction for data elements (Funded by Beijing Normal University)
 * 01/2024~12/2027, An investigation on policy semantic annotation and intelligent recommendation in the scenario of government-enterprise encouragement and government-citizen interaction (Funded by National Natural Science Found of China)
 
 * 08/2021~07/2022, Health Work Supervision and Inspection in Beijing (Funded by Beijing Municipal Health Commission)
