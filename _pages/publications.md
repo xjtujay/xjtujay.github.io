@@ -128,7 +128,7 @@ Peer Refereed Conference Presentation
 9.	Danping Jia, Siyu Deng, **Jian Jin*** and Qian Geng. "Integrating Kansei Engineering with Sentiment Analysis for Customer Understanding from Online Opinions". POMS International Conference in China (POMS China 2019), Tianjin, Jun 21-24, 2019
 8.	Siyu Deng, Danping Jia, Qian Geng and **Jian Jin***. "Domain Knowledge Base Building and Application Based on Product Reviews". POMS International Conference in China (POMS China 2019), Tianjin, Jun 21-24, 2019
 7.	宋诗佳，黄宇，王雪雯，**靳健***。基于连锁店数量指标的城市经济活力评价与预测，中国管理科学与工程学会大数据与商务分析研究会第三届学术年会，大连，2018年5月
-6.	***靳健**，季平，颜思行，耿子豪. "在线客户评论分析：以系列产品研发为角度". 第二十九届全国计算机信息管理学术交流会，张掖，2016年10月
+6.	**靳健***，季平，颜思行，耿子豪. "在线客户评论分析：以系列产品研发为角度". 第二十九届全国计算机信息管理学术交流会，张掖，2016年10月
 5.	**Jian Jin** and Ping Ji. "Understanding Big Consumer Opinion Data for Market-driven Product Design", Asian Conference of Management Science & Applications (ACMSA2015) , Dalian, China, September 12-15, 2015
 4.	Ping Ji and **Jian Jin***. "What Makes Consumers Unsatisfied with Your Products: Review Analysis in a Fine-Grained Level". International Conference on Operations Research (OR 2015), University of Vienna, Vienna, Austria, September 1 – 4, 2015
 3.	Ping Ji, Ning Li and **Jian Jin***, "Identifying Comparative Customer Requirements from Product Online Reviews for Competitor Analysis", International Conference on Internet Studies (NETs), Tokyo, Japan, July 2015
