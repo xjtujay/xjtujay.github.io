@@ -9,11 +9,11 @@ SCI/SSCI indexed Journal
 36.	Yongkang Duan, Guangyu Zhao, Qian Geng, Ping Ji and **Jian Jin***. "From Reactive to Proactive Policy Implement Method Through Intelligent Enterprise Matching". Enterprise Information Systems, 20(3), 2026 [[doi](https://doi.org/10.1080/17517575.2026.2628701)] (SCI, Q1)
 35.	**Jian Jin**, Xu Zhang, Kejia Chen, and Siyi Huang. "Chinese Entity Relation Extraction for Enhancing Public Event Analysis in Weibo". International Journal of Software Engineering and Knowledge Engineering [[doi](https://doi.org/10.1142/S0218194025500627)] (SCI, Q4)
 34.	Hongyang Wang, **Jian Jin***, Li Li, Jiaqi Liu and Da Wang. "Driving Online Healthcare Growth Amid the Digital Divide: How Trust in Professional Signals from Doctor Biographies Shapes Patient Decisions", Healthcare, 2025, 13(12), 1418. [[doi](https://doi.org/10.3390/healthcare13121418)] (SCI, Q2)
-33. Junpeng Zhang, Qian Geng and **Jian Jin***. "EKLI-Attention: An integrated attention mechanism for classifying citizen requests in government‒citizen interactions", Information Processing and Management, 62(6), November 2025, 104237 [[doi](https://doi.org/10.1016/j.ipm.2025.104237)] (SCI, Q1) 
-32. **Jian Jin**, Mingyue Yang, Huicong Hu, Xin Guo, Jianxi Luo and Ying Liu. "Empowering Design Innovation Using AI-Generated Content", Journal of Engineering Design, Volume 36, Issue 1, 1-18, 2025 [[doi](http://doi.org/10.1080/09544828.2024.2401751)] (SCI, Q1)
+33.	Junpeng Zhang, Qian Geng and **Jian Jin***. "EKLI-Attention: An integrated attention mechanism for classifying citizen requests in government‒citizen interactions", Information Processing and Management, 62(6), November 2025, 104237 [[doi](https://doi.org/10.1016/j.ipm.2025.104237)] (SCI, Q1) 
+32.	**Jian Jin**, Mingyue Yang, Huicong Hu, Xin Guo, Jianxi Luo and Ying Liu. "Empowering Design Innovation Using AI-Generated Content", Journal of Engineering Design, Volume 36, Issue 1, 1-18, 2025 [[doi](http://doi.org/10.1080/09544828.2024.2401751)] (SCI, Q1)
 31.	Qian Geng, Ziang Chuai and **Jian Jin***. "An Integrated Healthcare Service System Based on Blockchain Technologies", IEEE Transactions on Computational Social Systems, 11(5), 6278 – 6295, October 2024 [[doi](http://doi.org/10.1109/TCSS.2024.3392591)] (SCI, Q1)
-30. Qian Geng, Ziang Chuai and **Jian Jin***. "Cross-organizational data exchange based on consortium blockchain with consistency guarantee", Journal of Supercomputing, Volume 80, pages 18199–18236, May 2024. [[doi](https://doi.org/10.1007/s11227-024-06164-z)] (SCI, Q2)
-29. Kejia Chen, Jingjing Zheng and **Jian Jin***. "Ranking products through online opinions: A text analysis and regret theory-based approach". Applied Soft Computing, Volume 158, June 2024, 111571. [[doi](https://doi.org/10.1016/j.asoc.2024.111571)] (SCI, Q1)
+30.	Qian Geng, Ziang Chuai and **Jian Jin***. "Cross-organizational data exchange based on consortium blockchain with consistency guarantee", Journal of Supercomputing, Volume 80, pages 18199–18236, May 2024. [[doi](https://doi.org/10.1007/s11227-024-06164-z)] (SCI, Q2)
+29.	Kejia Chen, Jingjing Zheng and **Jian Jin***. "Ranking products through online opinions: A text analysis and regret theory-based approach". Applied Soft Computing, Volume 158, June 2024, 111571. [[doi](https://doi.org/10.1016/j.asoc.2024.111571)] (SCI, Q1)
 28.	Qian Geng, Ziang Chuai and **Jian Jin***. "Webpage Retrieval Based on Query by Example for Think Tank Construction". Information Processing and Management. 59(1), January 2022, 102767 [[doi](https://doi.org/10.1016/j.ipm.2021.102767)]  (SCI, SSCI, Q1)
 27.	**Jian Jin**, Danping Jia and Kejia Chen. "Mining online reviews with a Kansei-integrated Kano model for innovative product design". International Journal of Production Research, 44216, 2021, Taylor & Francis [[doi](https://doi.org/10.1080/00207543.2021.1949641)] (SCI, Q1)
 26.	Kejia Chen, **Jian Jin*** and Jiayi Luo. "Big consumer opinion data understanding for Kano categorization in new product development". Journal of Ambient Intelligence and Humanized Computing, 44216, 2021, Springer Berlin Heidelberg [[doi](https://doi.org/10.1007/s12652-021-02985-5)] (SCI, Q1)
@@ -64,8 +64,8 @@ Patent
 Chinese Journal Paper
 23.	段永康,赵广宇,耿骞,**靳健***.基于CAMC-Net的企业合作伙伴推荐方法研究，情报学报,2026,45(1):36-50.
 22.	赵广宇,段永康,耿骞,闫妍,**靳健***. 基于LLM数据增强和对比学习的政务相似问题检索研究，数据分析与知识发现，2025
-21. 段永康,赵广宇,耿骞,曹涵维,**靳健***.基于大语言模型的政策知识库构建与政策比较研究——以惠企政策为例,，数据分析与知识发现，2025,9(10):68-84
-20. **靳健**,吴倩,秦淑英.产品评论中的"情绪-原因-特征"用户需求网络构建与分析,图书情报工作, 2025, 69(17):130-142
+21.	段永康,赵广宇,耿骞,曹涵维,**靳健***.基于大语言模型的政策知识库构建与政策比较研究——以惠企政策为例,，数据分析与知识发现，2025,9(10):68-84
+20.	**靳健**,吴倩,秦淑英.产品评论中的"情绪-原因-特征"用户需求网络构建与分析,图书情报工作, 2025, 69(17):130-142
 19.	耿骞,揣子昂,**靳健***. 基于联盟链的跨组织数据交换操作一致性模型，计算机科学,2024,51(S1):1005-1013
 18.	苏梦泽,耿骞,刘志刚,**靳健***. 基于属性分析及文本聚类的我国养老政策演化研究. 人口与发展,2023,29(05):133-144
 17.	揣子昂,耿骞,潘慧瑶,**靳健***.产业政策知识图谱的自动化构建.情报工程,2022,8(3):028-051
@@ -87,7 +87,7 @@ Chinese Journal Paper
 1.	**靳健**，刘国荣，张博渊. 基于JavaScript的虚拟作物知识引擎的构建. 微电子学与计算机, 2007(03):66-68，2007年03月05日
 
 Peer Refereed Conference Paper
-20. Yu Zhu, Yongkang Duan, Hengjia Hu, **Jian Jin** and Jiyuan Ye. "LISGPT: Research on the Construction of a Library and Information Science Academic LLM Based on the Boundary Knowledge Enhance Framework", 88th Annual Meeting of the Association for Information Science and Technology (ASIS&T 2025), October, 2025 [[doi](https://doi.org/10.1002/pra2.1302)]
+20.	Yu Zhu, Yongkang Duan, Hengjia Hu, **Jian Jin** and Jiyuan Ye. "LISGPT: Research on the Construction of a Library and Information Science Academic LLM Based on the Boundary Knowledge Enhance Framework", 88th Annual Meeting of the Association for Information Science and Technology (ASIS&T 2025), October, 2025 [[doi](https://doi.org/10.1002/pra2.1302)]
 19.	Ziang Chuai, Qian Geng and **Jian Jin***. "Ensuring Consistency in Interagency Government Data Exchange: A Blockchain-Based Solution", 87th Annual Meeting of the Association for Information Science and Technology (ASIS&T 2024) 25-29 October, 2024 [[doi](https://doi.org/10.1002/pra2.1013)]
 18.	Chaoyang Li, **Jian Jin***, Xiangling Fu and Ning Li. "A Topic Enhance Match Net for Financial Complaint Cases Retrieval". Proceedings of the 13th International Conference on Software and Computer Applications (ICSCA 2024), 231-236, Bali Island, Indonesia, February 1 - 3, 2024 [[doi](https://doi.org/10.1145/3651781.3651817)]
 17.	Danping Jia and **Jian Jin***. "Mining Affective Needs from Online Opinions for Design Innovation". APWeb-WAIM, The 4th APWeb-WAIM International Joint Conference on Web and Big Data. August 12-14, 2020, Tianjin, China. [[doi](https://doi.org/10.1007/978-3-030-60290-1_25)] 
@@ -109,10 +109,15 @@ Peer Refereed Conference Paper
 1.	Jianpeng Zhu, **Jian Jin** and Ying Wang, "A Probabilistic Filter Protocol for Continuous Nearest-neighbor Query", IEEE Youth Conf. on Information, Computing and Telecommunications (YC-ITC), Pages 399-402, Beijing, China, September, 2009, IEEE [[doi](https://doi.org/10.1109/YCICT.2009.5382333)] 
 
 Peer Refereed Conference Presentation
-20.	赵广宇，段永康，耿骞，**靳健***。基于协作式智能体工作流的惠企政策资格匹配推送研究，2025年中国情报学年会暨情报学与情报工作发展论坛，西安，2025年7月
-19.	杨海莉，陈雅馨，**靳健***。结合监督对比与集成学习的政策工具自动分类研究，2025年中国情报学年会暨情报学与情报工作发展论坛，西安，2025年7月
-18.	段永康，赵广宇，耿骞，**靳健***。基于CAMC-Net的企业合作伙伴推荐方法研究，2025年中国情报学年会暨情报学与情报工作发展论坛，西安，2025年7月
-17.	张珺彭，耿骞，**靳健***。政民互动中的问答证据提取研究，2025年中国情报学年会暨情报学与情报工作发展论坛，西安，2025年7月
+25.	Xi Chen, Xinzhu Zeng, Jian Jin* and Qian Geng. "From Policy Documents to Trustworthy Dialogues: Structure-aware Hierarchical Chunking for Evidence-Complete Retrieval in Enterprise-Policy Knowledge Work", Information Processing & Management Conference 2026 (IP&MC 2026), October, 2026
+24.	Lijun Sun, Jinliang Li,Hanglin He, Danyang Liu and Jian Jin*. "TaxoCPR: a hierarchical taxonomy construction and reranking classification framework for citizen requests in local government", Information Processing & Management Conference 2026 (IP&MC 2026), October, 2026
+23.	孙丽君，何杭霖，刘丹阳，靳健*。TaxoCPR: 面向基层公共服务诉求的层级标签构建与重排序分类框架，中国系统工程学会信息系统工程专业委员会2026学术年会（CNAIS 2026），合肥，2026年10月
+22.	曾欣竹，陈曦，耿骞，靳健*。知识组织视角下的政策解读大模型生成方法——以惠企政策为例，中国系统工程学会信息系统工程专业委员会2026学术年会（CNAIS 2026），合肥，2026年10月
+21.	何杭霖，靳健*，耿骞，孙丽君，刘丹阳。E-SEER-SGPO：面向政务问答的证据提取偏好对齐框架，2026年中国情报学年会暨情报学与情报工作发展论坛，南京，2026年7月18日
+20.	杨海莉，陈雅馨，靳健*。结合监督对比与集成学习的政策工具自动分类研究，2025年中国情报学年会暨情报学与情报工作发展论坛，西安，2025年7月
+19.	段永康，赵广宇，耿骞，靳健*。基于CAMC-Net的企业合作伙伴推荐方法研究，2025年中国情报学年会暨情报学与情报工作发展论坛，西安，2025年7月
+18.	张珺彭，耿骞，靳健*。政民互动中的问答证据提取研究，2025年中国情报学年会暨情报学与情报工作发展论坛，西安，2025年7月
+17.	赵广宇，段永康，耿骞，**靳健***。基于协作式智能体工作流的惠企政策资格匹配推送研究，2025年中国情报学年会暨情报学与情报工作发展论坛，西安，2025年7月
 16.	张珺彭，耿骞，**靳健***。基于组合深度学习模型的政民互动问题分类研究，2024年中国情报学年会暨情报学与情报工作发展论坛，天津，2024年10月
 15.	段永康，**靳健***。基于检索增强生成技术的惠企政策比较研究，2024年中国情报学年会暨情报学与情报工作发展论坛，天津，2024年10月
 14.	段永康，**靳健***，吕鹏辉。基于Python语言的文献智能计量：以区块链为例，首届全国信息资源管理年会暨博士生学术论坛，杭州，2024年4月
@@ -129,3 +134,4 @@ Peer Refereed Conference Presentation
 3.	Ping Ji, Ning Li and **Jian Jin***, "Identifying Comparative Customer Requirements from Product Online Reviews for Competitor Analysis", International Conference on Internet Studies (NETs), Tokyo, Japan, July 2015
 2.	**Jian Jin** and Ping Ji, "Understanding the Customer Requirements in the Presence of Big Data", Annual Conference on Engineering and Information Technology (ACEAIT), Tokyo, Japan, March, 2014
 1.	**Jian Jin** and Ping Ji, "Relating Online Reviews to Product Characteristics", 10th Conference on Information Science, Technology and Management (CISTM), Lisbon, Portugal, June, 2012
+
