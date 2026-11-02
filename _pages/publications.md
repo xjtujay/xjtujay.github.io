@@ -109,14 +109,14 @@ Peer Refereed Conference Paper
 1.	Jianpeng Zhu, **Jian Jin** and Ying Wang, "A Probabilistic Filter Protocol for Continuous Nearest-neighbor Query", IEEE Youth Conf. on Information, Computing and Telecommunications (YC-ITC), Pages 399-402, Beijing, China, September, 2009, IEEE [[doi](https://doi.org/10.1109/YCICT.2009.5382333)] 
 
 Peer Refereed Conference Presentation
-25.	Xi Chen, Xinzhu Zeng, Jian Jin* and Qian Geng. "From Policy Documents to Trustworthy Dialogues: Structure-aware Hierarchical Chunking for Evidence-Complete Retrieval in Enterprise-Policy Knowledge Work", Information Processing & Management Conference 2026 (IP&MC 2026), October, 2026
-24.	Lijun Sun, Jinliang Li,Hanglin He, Danyang Liu and Jian Jin*. "TaxoCPR: a hierarchical taxonomy construction and reranking classification framework for citizen requests in local government", Information Processing & Management Conference 2026 (IP&MC 2026), October, 2026
-23.	孙丽君，何杭霖，刘丹阳，靳健*。TaxoCPR: 面向基层公共服务诉求的层级标签构建与重排序分类框架，中国系统工程学会信息系统工程专业委员会2026学术年会（CNAIS 2026），合肥，2026年10月
-22.	曾欣竹，陈曦，耿骞，靳健*。知识组织视角下的政策解读大模型生成方法——以惠企政策为例，中国系统工程学会信息系统工程专业委员会2026学术年会（CNAIS 2026），合肥，2026年10月
-21.	何杭霖，靳健*，耿骞，孙丽君，刘丹阳。E-SEER-SGPO：面向政务问答的证据提取偏好对齐框架，2026年中国情报学年会暨情报学与情报工作发展论坛，南京，2026年7月18日
-20.	杨海莉，陈雅馨，靳健*。结合监督对比与集成学习的政策工具自动分类研究，2025年中国情报学年会暨情报学与情报工作发展论坛，西安，2025年7月
-19.	段永康，赵广宇，耿骞，靳健*。基于CAMC-Net的企业合作伙伴推荐方法研究，2025年中国情报学年会暨情报学与情报工作发展论坛，西安，2025年7月
-18.	张珺彭，耿骞，靳健*。政民互动中的问答证据提取研究，2025年中国情报学年会暨情报学与情报工作发展论坛，西安，2025年7月
+25.	Xi Chen, Xinzhu Zeng, ***Jian Jin** and Qian Geng. "From Policy Documents to Trustworthy Dialogues: Structure-aware Hierarchical Chunking for Evidence-Complete Retrieval in Enterprise-Policy Knowledge Work", Information Processing & Management Conference 2026 (IP&MC 2026), October, 2026
+24.	Lijun Sun, Jinliang Li,Hanglin He, Danyang Liu and ***Jian Jin**. "TaxoCPR: a hierarchical taxonomy construction and reranking classification framework for citizen requests in local government", Information Processing & Management Conference 2026 (IP&MC 2026), October, 2026
+23.	孙丽君，何杭霖，刘丹阳，**靳健***。TaxoCPR: 面向基层公共服务诉求的层级标签构建与重排序分类框架，中国系统工程学会信息系统工程专业委员会2026学术年会（CNAIS 2026），合肥，2026年10月
+22.	曾欣竹，陈曦，耿骞，**靳健***。知识组织视角下的政策解读大模型生成方法——以惠企政策为例，中国系统工程学会信息系统工程专业委员会2026学术年会（CNAIS 2026），合肥，2026年10月
+21.	何杭霖，**靳健***，耿骞，孙丽君，刘丹阳。E-SEER-SGPO：面向政务问答的证据提取偏好对齐框架，2026年中国情报学年会暨情报学与情报工作发展论坛，南京，2026年7月18日
+20.	杨海莉，陈雅馨，**靳健***。结合监督对比与集成学习的政策工具自动分类研究，2025年中国情报学年会暨情报学与情报工作发展论坛，西安，2025年7月
+19.	段永康，赵广宇，耿骞，**靳健***。基于CAMC-Net的企业合作伙伴推荐方法研究，2025年中国情报学年会暨情报学与情报工作发展论坛，西安，2025年7月
+18.	张珺彭，耿骞，**靳健***。政民互动中的问答证据提取研究，2025年中国情报学年会暨情报学与情报工作发展论坛，西安，2025年7月
 17.	赵广宇，段永康，耿骞，**靳健***。基于协作式智能体工作流的惠企政策资格匹配推送研究，2025年中国情报学年会暨情报学与情报工作发展论坛，西安，2025年7月
 16.	张珺彭，耿骞，**靳健***。基于组合深度学习模型的政民互动问题分类研究，2024年中国情报学年会暨情报学与情报工作发展论坛，天津，2024年10月
 15.	段永康，**靳健***。基于检索增强生成技术的惠企政策比较研究，2024年中国情报学年会暨情报学与情报工作发展论坛，天津，2024年10月
