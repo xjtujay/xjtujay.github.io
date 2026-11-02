@@ -109,8 +109,8 @@ Peer Refereed Conference Paper
 1.	Jianpeng Zhu, **Jian Jin** and Ying Wang, "A Probabilistic Filter Protocol for Continuous Nearest-neighbor Query", IEEE Youth Conf. on Information, Computing and Telecommunications (YC-ITC), Pages 399-402, Beijing, China, September, 2009, IEEE [[doi](https://doi.org/10.1109/YCICT.2009.5382333)] 
 
 Peer Refereed Conference Presentation
-25.	Xi Chen, Xinzhu Zeng, ***Jian Jin** and Qian Geng. "From Policy Documents to Trustworthy Dialogues: Structure-aware Hierarchical Chunking for Evidence-Complete Retrieval in Enterprise-Policy Knowledge Work", Information Processing & Management Conference 2026 (IP&MC 2026), October, 2026
-24.	Lijun Sun, Jinliang Li,Hanglin He, Danyang Liu and ***Jian Jin**. "TaxoCPR: a hierarchical taxonomy construction and reranking classification framework for citizen requests in local government", Information Processing & Management Conference 2026 (IP&MC 2026), October, 2026
+25.	Xi Chen, Xinzhu Zeng, **Jian Jin*** and Qian Geng. "From Policy Documents to Trustworthy Dialogues: Structure-aware Hierarchical Chunking for Evidence-Complete Retrieval in Enterprise-Policy Knowledge Work", Information Processing & Management Conference 2026 (IP&MC 2026), October, 2026
+24.	Lijun Sun, Jinliang Li,Hanglin He, Danyang Liu and **Jian Jin***. "TaxoCPR: a hierarchical taxonomy construction and reranking classification framework for citizen requests in local government", Information Processing & Management Conference 2026 (IP&MC 2026), October, 2026
 23.	孙丽君，何杭霖，刘丹阳，**靳健***。TaxoCPR: 面向基层公共服务诉求的层级标签构建与重排序分类框架，中国系统工程学会信息系统工程专业委员会2026学术年会（CNAIS 2026），合肥，2026年10月
 22.	曾欣竹，陈曦，耿骞，**靳健***。知识组织视角下的政策解读大模型生成方法——以惠企政策为例，中国系统工程学会信息系统工程专业委员会2026学术年会（CNAIS 2026），合肥，2026年10月
 21.	何杭霖，**靳健***，耿骞，孙丽君，刘丹阳。E-SEER-SGPO：面向政务问答的证据提取偏好对齐框架，2026年中国情报学年会暨情报学与情报工作发展论坛，南京，2026年7月18日
@@ -122,7 +122,7 @@ Peer Refereed Conference Presentation
 15.	段永康，**靳健***。基于检索增强生成技术的惠企政策比较研究，2024年中国情报学年会暨情报学与情报工作发展论坛，天津，2024年10月
 14.	段永康，**靳健***，吕鹏辉。基于Python语言的文献智能计量：以区块链为例，首届全国信息资源管理年会暨博士生学术论坛，杭州，2024年4月
 13.	揣子昂，耿骞，**靳健***。基于联盟链的跨部门政府数据异步更新机制, 第八届全国大数据与社会计算学术会议(BDSC 2023)，乌鲁木齐，2023年7月
-12.	Ziang Chuai, Qian Geng and ***Jian Jin**. "Healthcare Data Sharing and Ancillary Services Integration: A Blockchain-based Solution". 2022 Annual Meeting of ASIS&T Asia Pacific Chapter (ASIS&T AP). December 17-18, 2022, Virtual.
+12.	Ziang Chuai, Qian Geng and **Jian Jin***. "Healthcare Data Sharing and Ancillary Services Integration: A Blockchain-based Solution". 2022 Annual Meeting of ASIS&T Asia Pacific Chapter (ASIS&T AP). December 17-18, 2022, Virtual.
 11.	秦淑英，潘佳立，王博，**靳健***，耿骞。面向新产品设计的用户情绪原因发现研究，2022年中国情报学年会暨情报学与情报工作发展论坛，北京，2022年8月
 10.	潘佳立，秦淑英，王博，**靳健***，耿骞。基于多任务学习的产品创新型特征识别与用户满意度建模，2022年中国情报学年会暨情报学与情报工作发展论坛，北京，2022年8月
 9.	Danping Jia, Siyu Deng, **Jian Jin*** and Qian Geng. "Integrating Kansei Engineering with Sentiment Analysis for Customer Understanding from Online Opinions". POMS International Conference in China (POMS China 2019), Tianjin, Jun 21-24, 2019
